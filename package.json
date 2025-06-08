@@ -1,0 +1,19 @@
+{
+  "name": "ai_pictures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.10.0",
+    "axios": "^1.9.0",
+    "buffer": "^6.0.3",
+    "express": "^4.18.2",
+    "nsfwjs": "^4.2.1"
+  }
+}
